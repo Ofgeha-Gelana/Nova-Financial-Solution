@@ -1,8 +1,2 @@
 pandas
-numpy
 matplotlib
-seaborn
-scipy
-plotly
-jupyterlab
-notebook
