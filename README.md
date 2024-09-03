@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Analyzing the Impact of News Sentiment on Stock Market Movements
 
 ## Overview
