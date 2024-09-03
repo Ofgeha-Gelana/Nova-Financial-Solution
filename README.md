@@ -99,7 +99,6 @@ Nova Financial Solutions is focused on improving financial forecasting accuracy 
 - **NLTK:** For natural language processing and sentiment analysis.
 
 ## Contributing
-Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
 
 
->>>>>>> task-3
+>>>>>>> task-4
